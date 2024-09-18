@@ -10,7 +10,7 @@
   
   <p align="center">
    <a href="http://gg.gg/khalifa-group"> 
-<img src="https://s6.ezgif.com/tmp/ezgif-6-474b433abf.gif" alt="animated" width="540" height="280" />
+<img src="https://camo.githubusercontent.com/94f24858304fce5665474a8ec0f91e449c75ddd4de8bb4d94851b491dfecb193/68747470733a2f2f692e696d6775722e636f6d2f5456686d4546592e6a706567" alt="animated" width="540" height="280" />
    </a>
   </p>
 
