@@ -15,12 +15,12 @@
   </p>
 
 <p align="center">
-<a href="https://github.com/LuciZR"><img title="Author" src="https://img.shields.io/badge/𝑴𝑰𝑨-𝑴𝑫-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/XiaLuci"><img title="Author" src="https://img.shields.io/badge/𝑴𝑰𝑨-𝑴𝑫-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/LuciZR?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LuciZR?label=Followers&style=social"></a>
-<a href="https://github.com/LuciZR/Mia-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LuciZR/Mia-Md?&style=social"></a>
-<a href="https://github.com/LuciZR/Mia-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LuciZR/Mia-Md?style=social"></></a>
+<a href="https://github.com/XiaLuci?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/LuciZR?label=Followers&style=social"></a>
+<a href="https://github.com/XiaLuci/Mia-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XiaLuci/Mia-Md?&style=social"></a>
+<a href="https://github.com/XiaLuci/Mia-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/XiaLuci/Mia-Md?style=social"></></a>
 </p>
 
 ## Connect With Me
